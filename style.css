@@ -1,0 +1,16 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    color: yellow;
+}
+.note{
+   font-size: 15px;
+   color: yellowgreen; 
+}
+body{
+    background-size: cover;
+}
+#song{
+    color: red;
+}
